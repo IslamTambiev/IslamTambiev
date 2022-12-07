@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @IslamT1
-- 👀 I’m interested in Ai
-- 🌱 I’m currently learning Keras
-- 💞️ I’m looking to collaborate on hahaton
 - 📫 How to reach me ... nikak
 
 <!---
