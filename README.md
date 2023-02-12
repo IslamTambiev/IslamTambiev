@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student" alt="Typing SVG" /></a>  
   
-![snake gif](https://github.com/IslamTambiev/IslamTambiev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/IslamTambiev/IslamTambiev/blob/output/github-contribution-grid-snake.svg)
   
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
