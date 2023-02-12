@@ -14,7 +14,7 @@
   
 ![](https://komarev.com/ghpvc/?username=IslamTambiev)
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
-
-
+[![IslamTambiev's github activity graph](https://activity-graph.herokuapp.com/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
+  
+[![IslamTambiev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
 
