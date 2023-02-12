@@ -3,3 +3,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student" alt="Typing SVG" /></a>  
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru)](https://git.io/streak-stats)
