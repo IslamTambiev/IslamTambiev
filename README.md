@@ -8,4 +8,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamTambiev)](https://github.com/IslamTambiev/github-readme-stats)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamTambiev)](https://github.com/IslamTambiev/github-readme-stats)
+[![IslamTambiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamTambiev&show_icons=true&theme=radical)](https://github.com/IslamTambiev/github-readme-stats)
