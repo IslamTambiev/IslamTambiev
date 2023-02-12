@@ -13,3 +13,8 @@
 [![codewars](https://www.codewars.com/users/Islam_qwerty/badges/large)](https://www.codewars.com/users/username)
   
 ![](https://komarev.com/ghpvc/?username=IslamTambiev)
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
+
+
+
