@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @IslamT1
-- 📫 How to reach me ... nikak
-
-<!---
-IslamT1/IslamT1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm @IslamTambiev
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student</h3>
