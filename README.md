@@ -11,5 +11,5 @@
 [![IslamTambiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamTambiev&show_icons=true&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
   
 [![codewars](https://www.codewars.com/users/Islam_qwerty/badges/large)](https://www.codewars.com/users/username)
-
-
+  
+![](https://komarev.com/ghpvc/?username=IslamTambiev)
