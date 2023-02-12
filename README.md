@@ -16,7 +16,7 @@
   
 [![IslamTambiev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
   
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslamTambiev&theme=github_dark)
 
 
 
