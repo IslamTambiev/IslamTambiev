@@ -6,6 +6,6 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamTambiev&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamTambiev&show_icons=true&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
   
 [![IslamTambiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamTambiev&show_icons=true&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
