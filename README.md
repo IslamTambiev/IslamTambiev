@@ -11,7 +11,7 @@
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamTambiev&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
   
