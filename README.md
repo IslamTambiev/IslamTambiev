@@ -46,7 +46,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IslamTambiev&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamTambiev&theme=dark)](https://github.com/IslamTambiev/github-readme-stats)
 
