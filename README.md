@@ -54,9 +54,9 @@
   
 ![](https://komarev.com/ghpvc/?username=IslamTambiev)
   
-[![IslamTambiev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
+<!--- [![IslamTambiev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IslamTambiev&theme=github-dark)](https://github.com/IslamTambiev/github-readme-activity-graph)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslamTambiev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslamTambiev&theme=github_dark) -->
 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
